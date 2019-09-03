@@ -4,6 +4,9 @@ Je vous montre comment augmenter l’autonomie de votre arduino nano par 2000 en
 Les arduino sont pratiques avec leur port USB et convertisseur série, led Power et régulateurs … mais tout cela consomme énormément et en mode production, cela est inutile.
 
 
+le savez-vous ?
+l’arduino comme tous les composant Atmel peuvent être mis en mode sommeil ( deep sleep mode).
+dans ce mode le micro contrôleur ne fait plus rien et attend un événement spécial pour être réveillé ( interruptions provoqué par un timer, changement état d’un pin …) ,  sa  consommation est diminué mais les composants autour : régulateur, led d’alimentation ne sont pas mis en veille et consomment “énormément”.
 
 ## Bien commencer
 
