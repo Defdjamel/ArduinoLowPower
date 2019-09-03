@@ -42,17 +42,20 @@ Voici les résultat de mes tests:
 
  * Sans modification:
 
-consommation en mode Normal/Actif : 13mA
+Mode Normal/Actif : 13mA
 
 Mode Sommeil : 3mA
 
  * Avec Modification ( suppression régulateur, led alimentation et convertisseur série):
+
 En 5V : 
+
 Mode Normal(Actif):  13 mA
 
 Mode Sommeil: 0.026mA ( 26µA )
 
 En 3.3V : 
+
 Mode Normal:  5.8mA
 
 Mode Sommeil: 0.022mA ( 22µA )
