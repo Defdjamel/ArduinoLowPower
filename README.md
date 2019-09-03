@@ -15,7 +15,7 @@ ici le schema
 ![Schema ](test_5V_simple.jpg?raw=true "schema test")
 
 
-je vous invite a venir regarder mon tuto sur youtube en français sur ce projet : https://youtu.be/JonCgBIgUcw
+je vous invite a venir regarder mon tuto sur youtube en français sur ce projet : https://youtu.be/PkNPIMmUAvo
 
 ### Requis Logiciel
 * [Arduino IDE](https://www.arduino.cc) - arduino IDE
@@ -35,7 +35,7 @@ Condensateurs polarisé 100nF pack condensateur  -> http://s.click.aliexpress.co
 * Suppression de la Led d'alimentation
 * Suppression du convertisseur usb/serie
 
-Je vous invite a venir voir les étapes plus en details sur mon tuto -> http://bit.ly/2KJLYBo
+Je vous invite a venir voir les étapes plus en details sur mon tuto -> https://youtu.be/PkNPIMmUAvo
 
 
 ## Les Tests : 
