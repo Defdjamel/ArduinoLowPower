@@ -69,7 +69,7 @@ Mode Sommeil: 0.022mA ( 22µA )
 
 Conclusion:
 
-avec une batterie de 1200mA (Lien ici http://bit.ly/2Kmgdzf )  l’Arduino obtient une autonomie de 3 ans et demi:
+avec une batterie de 1000mA (Lien ici http://bit.ly/2Kmgdzf )  l’Arduino obtient une autonomie de 3 ans et demi:
 formule de calcul:
 
 1000mAh / 0.022mAh = 54 545 heures 
