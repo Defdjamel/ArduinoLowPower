@@ -42,13 +42,16 @@ Je vous invite a venir voir les étapes plus en details sur mon tuto -> https://
 
 Dans cette exemple j’utilise un AT168m@16 Mhz sous 5V et 3.3V et je vais retirer certains composant.
 Voici les résultat de mes tests:
-
+```
  * Sans modification:
 
 Mode Normal/Actif : 13mA
 
 Mode Sommeil : 3mA
+```
 
+
+```
  * Avec Modification ( suppression régulateur, led alimentation et convertisseur série):
 
 En 5V : 
@@ -62,6 +65,7 @@ En 3.3V :
 Mode Normal:  5.8mA
 
 Mode Sommeil: 0.022mA ( 22µA )
+```
 
 Conclusion:
 
