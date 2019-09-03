@@ -35,7 +35,7 @@ Condensateurs polarisé 100nF pack condensateur  -> http://s.click.aliexpress.co
 Je vous invite a venir voir les étapes plus en details sur mon tuto -> http://bit.ly/2KJLYBo
 
 
-## Test
+## Les Tests : 
 
 Dans cette exemple j’utilise un AT168m@16 Mhz sous 5V et 3.3V et je vais retirer certains composant.
 Voici les résultat de mes tests:
