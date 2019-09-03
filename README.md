@@ -66,8 +66,11 @@ avec une batterie de 1200mA (Lien ici http://bit.ly/2Kmgdzf )  l’Arduino obtie
 formule de calcul:
 
 1000mAh / 0.022mAh = 54 545 heures 
+
 54 545 h / (24 *365 jours) = 6.22 ans 
+
 et on applique le coefficient d’usure de  0.7 : 
+
 6.22 * 0.7 =  3.63 ans
 
 
